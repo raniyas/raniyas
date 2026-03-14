@@ -23,4 +23,4 @@ Full-time roles in computer vision engineering, ADAS perception, or embedded AI 
 
 ### Connect with me
 
-LinkedIn: linkedin.com/in/raniya-shamsuddin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raniya_Shamsuddin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raniya-shamsuddin)
